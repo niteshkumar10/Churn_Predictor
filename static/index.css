@@ -1,0 +1,20 @@
+
+
+#navfont{
+    color: white; 
+    font-family: 'Libre Baskerville', serif; 
+    font-size: 35px;
+}
+
+#navbar{
+    width:100%;
+}
+
+#form{
+    width: 500px;
+}
+
+#maincontainer{
+    width: 100%;
+    margin-top: 60px;
+}
