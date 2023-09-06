@@ -286,5 +286,4 @@ plt.ylabel('Variable')
 plt.title(name)
 plt.show()
 
-from lightgbm import LGBMClassifier
 
