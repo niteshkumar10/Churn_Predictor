@@ -10,3 +10,4 @@
 * Then open the python terminal and run app.py using the comand **python app.py**
 * App will start running on a localhost.
 
+model.py was ran using google colab and then stored as .py file.
