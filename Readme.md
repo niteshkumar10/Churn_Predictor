@@ -12,4 +12,4 @@
 
 model.py was ran using google colab and then stored as .py file.
 
-requirements.txt and proctfile have been provided so that the app can be deployed on the servers easily.
+requirements.txt and procfile have been provided so that the app can be deployed on the servers easily.
